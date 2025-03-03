@@ -1,4 +1,4 @@
-# OpenGLEngine
+# C3DEngine
 ![C3DRendering_Flying_Opti](https://github.com/user-attachments/assets/ce4e4e94-609c-4bd8-ba98-da357d59b0d4)
 ![C3DRendering](https://github.com/user-attachments/assets/c57af6b8-1197-451f-92ee-33e0d9c0466a)
 ## What the goal of this project
